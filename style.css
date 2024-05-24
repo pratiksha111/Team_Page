@@ -1,0 +1,49 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+        .head-container{
+            width: 20%;
+            margin: auto;
+
+        }
+        .header {
+            background-color: #a64ca6;
+            color: white;
+            border-radius: 25px;
+            padding: 0.2px;
+            width: 226px;
+            height: 71px;
+            
+        }
+        .hr{
+            width: 50%;
+            border-top: 3px dotted #a64ca6
+        }
+        .team-section {
+            margin: 20px 0;
+        }
+        .team-section h2 {
+            background-color: #a64ca6;
+            color: white;
+            padding: 10px;
+            margin: 0;
+        }
+        .team-member {
+            display: inline-block;
+            width: 20%;
+            margin: 10px;
+        }
+        .team-member img {
+            width: 80%;
+            border-radius: 50%;
+        }
+        .team-member p {
+            margin: 5px 0;
+        }
